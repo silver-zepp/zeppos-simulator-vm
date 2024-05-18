@@ -1,6 +1,8 @@
 #### ZeppOS Simulator VM
 Out of the box Simulator with all the things preinstalled and set up
 
+<img src="./assets/simulator-vm.png" alt="" width="75%"/>
+
 #### Requires
 1. Donwload the [VMWare Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html.html)
 2. Download the VM from the [Releases](../../releases) page
