@@ -1,5 +1,5 @@
 #### ZeppOS Simulator VM
-Out of the box Simulator with all the things preinstalled and setup
+Out of the box Simulator with all the things preinstalled and set up
 
 #### Requires
 1. Donwload the [VMWare Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html.html)
